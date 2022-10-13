@@ -1,7 +1,6 @@
-caption: learining
 created: 20221013061816752
 creator: bbbbb
-modified: 20221013072549010
+modified: 20221013073019504
 modifier: bbbbb
 tags: 
 title: learning to use
@@ -31,7 +30,7 @@ type: text/vnd.tiddlywiki
 
 > speak2
 
-<hr ></hr>
-runout
+
+--runout
 
 <table ><tbody ><tr class="evenRow"><th >one</th><th >two</th></tr><tr class="oddRow"><td >a</td><td >b</td></tr><tr class="evenRow"><td >c</td><td >d</td></tr></tbody></table>
