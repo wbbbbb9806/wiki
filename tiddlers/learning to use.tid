@@ -1,10 +1,11 @@
 created: 20221013061816752
 creator: bbbbb
-modified: 20221013065307556
+modified: 20221013070710258
 modifier: bbbbb
 tags: 
 title: learning to use
 type: text/vnd.tiddlywiki
+wysiwyg: yes
 
 ! for title 
 
@@ -12,24 +13,11 @@ type: text/vnd.tiddlywiki
 
 !!! for title
 
-<br ></br></br></br></br></br>
-
-''for bold'' 
-
-<br ></br></br></br></br>
-
-//for italic 
-//<br ></br></br></br></br>//
+<br ></br></br></br>''for bold'' <br ></br></br></br><br ></br></br></br>//for italic ////
 ////__for underline__////
-//<br ></br></br></br></br>//
 ////~~for delete line~~////
-//<br ></br></br></br></br>//
-////^^superscript^^//
-
-<br ></br></br></br></br>//
-////,,for subscript,,//
-
-<br ></br></br></br></br>
+////^^superscript^^////
+////,,subscript,,//<br ></br></br></br><br ></br></br></br>
 
 * //the first//
 ** //balabalabala//
@@ -37,10 +25,3 @@ type: text/vnd.tiddlywiki
 
 # //the first//
 # //the second//
-
-//>so//
-
-//>//
-
-////
-
