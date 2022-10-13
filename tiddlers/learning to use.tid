@@ -1,11 +1,11 @@
+caption: learining
 created: 20221013061816752
 creator: bbbbb
-modified: 20221013071250462
+modified: 20221013072549010
 modifier: bbbbb
 tags: 
 title: learning to use
 type: text/vnd.tiddlywiki
-wysiwyg: yes
 
 ! for title 
 
@@ -13,15 +13,25 @@ wysiwyg: yes
 
 !!! for title
 
-<br ></br></br></br></br></br>''for bold'' <br ></br></br></br></br></br><br ></br></br></br></br></br>//for italic ////
-////__for underline__////
-////~~for delete line~~////
-////^^superscript^^////
-////,,subscript,,//<br ></br></br></br></br></br><br ></br></br></br></br></br>
+''Bold'' and //italic// and ~~delete~~ and __underline__ and x^^2^^ and x,,2,, 
 
-* //the first//
-** //balabalabala//
-* //the second//
+* a
+** b
+*** c
+* d
 
-# //the first//
-# //the second//
+# a
+# b
+## c
+### d
+
+
+> speak1
+>> in
+
+> speak2
+
+<hr ></hr>
+runout
+
+<table ><tbody ><tr class="evenRow"><th >one</th><th >two</th></tr><tr class="oddRow"><td >a</td><td >b</td></tr><tr class="evenRow"><td >c</td><td >d</td></tr></tbody></table>
