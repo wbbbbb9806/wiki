@@ -1,6 +1,6 @@
 created: 20221013061816752
 creator: bbbbb
-modified: 20221013070710258
+modified: 20221013071250462
 modifier: bbbbb
 tags: 
 title: learning to use
@@ -13,11 +13,11 @@ wysiwyg: yes
 
 !!! for title
 
-<br ></br></br></br>''for bold'' <br ></br></br></br><br ></br></br></br>//for italic ////
+<br ></br></br></br></br></br>''for bold'' <br ></br></br></br></br></br><br ></br></br></br></br></br>//for italic ////
 ////__for underline__////
 ////~~for delete line~~////
 ////^^superscript^^////
-////,,subscript,,//<br ></br></br></br><br ></br></br></br>
+////,,subscript,,//<br ></br></br></br></br></br><br ></br></br></br></br></br>
 
 * //the first//
 ** //balabalabala//
