@@ -1,6 +1,6 @@
 created: 20221013061816752
 creator: bbbbb
-modified: 20221013062419170
+modified: 20221013065307556
 modifier: bbbbb
 tags: 
 title: learning to use
@@ -8,18 +8,39 @@ type: text/vnd.tiddlywiki
 
 ! for title 
 
-!! !! for title
+!! for title
 
-!!! !!! for title
+!!! for title
 
-'' '' for bold''
+<br ></br></br></br></br></br>
 
+''for bold'' 
 
+<br ></br></br></br></br>
 
+//for italic 
+//<br ></br></br></br></br>//
+////__for underline__////
+//<br ></br></br></br></br>//
+////~~for delete line~~////
+//<br ></br></br></br></br>//
+////^^superscript^^//
 
+<br ></br></br></br></br>//
+////,,for subscript,,//
 
+<br ></br></br></br></br>
 
+* //the first//
+** //balabalabala//
+* //the second//
 
+# //the first//
+# //the second//
 
+//>so//
 
-''
+//>//
+
+////
+
